@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/23 11:06:15.000.235,=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/02/23 11:06:15.000.512,=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/02/23 11:15:39.000.296,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit1.cpp=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2021/02/23 11:15:39.000.296,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit1.h=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2021/02/23 11:15:39.000.296,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit1.dfm=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/02/23 11:22:50.000.152,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Project1PCH1.h=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2021/02/23 11:22:55.000.696,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Project1.cbproj=C:\Users\sandr\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2021/02/23 11:50:56.000.420,=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp</Transaction>
+    <Transaction>2021/02/23 11:56:13.000.297,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.h=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\uPonto.h</Transaction>
+    <Transaction>2021/02/23 11:56:13.000.297,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\uPonto.cpp</Transaction>
+    <Transaction>2021/02/26 07:59:41.000.411,=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp</Transaction>
+    <Transaction>2021/02/26 08:00:58.000.507,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\uJanela.h=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.h</Transaction>
+    <Transaction>2021/02/26 08:00:58.000.507,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\uJanela.cpp=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp</Transaction>
+    <Transaction>2021/02/26 09:08:28.000.433,=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp</Transaction>
+    <Transaction>2021/02/26 09:08:58.000.214,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\uPoligono.cpp=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp</Transaction>
+    <Transaction>2021/02/26 09:08:58.000.214,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\uPoligono.h=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.h</Transaction>
+    <Transaction>2021/03/02 10:29:26.000.676,=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp</Transaction>
+    <Transaction>2021/03/02 10:31:03.000.617,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.h=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\uDisplay.h</Transaction>
+    <Transaction>2021/03/02 10:31:03.000.617,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\uDisplay.cpp</Transaction>
+    <Transaction>2021/03/14 15:52:29.000.833,=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp</Transaction>
+    <Transaction>2021/03/14 16:02:01.000.116,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit1.cpp=</Transaction>
+    <Transaction>2021/03/14 16:03:26.000.604,=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit1.cpp</Transaction>
+    <Transaction>2021/03/14 16:26:28.000.810,C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\exemplo2021-02-23\Unit2.cpp=</Transaction>
+    <Transaction>2021/04/03 20:25:19.000.696,=C:\Users\sandr\Documents\UTFPR\5 semestre\Computação gráfica\trabalho até curvas\uPonto3d.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

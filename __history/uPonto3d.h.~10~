@@ -1,0 +1,18 @@
+//---------------------------------------------------------------------------
+
+#ifndef uPonto3dH
+#define uPonto3dH
+#include "uPonto.h"
+//---------------------------------------------------------------------------
+class Ponto3D : public Ponto{
+	public:
+		double z;
+
+		Ponto3D(double x, double y, double z);
+
+    	//transformacoes
+		void translada(double dx, double dy, double dz);
+		void escalonar(double sx, double sy, double sz);
+		void refletir(bool x, bool y, bool z);
+};
+#endif

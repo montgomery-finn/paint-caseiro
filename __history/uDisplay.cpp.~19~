@@ -1,0 +1,70 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "uDisplay.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+void DisplayFile::desenha(TCanvas *canvas, Janela mundo, Janela vp, int tipoReta){
+	canvas->Pen->Color = clBlack;
+	canvas->Pen->Width = 3;
+
+	canvas->Brush->Color = clWhite;
+	canvas->FillRect(Rect(0,0,500,500));
+
+	for(int i = 0; i < poligonos.size(); i++){
+		poligonos[i].desenha(canvas, mundo, vp, tipoReta);
+	}
+}
+
+void DisplayFile::mostra(TListBox *listbox){
+	listbox->Clear();
+
+	for(int i = 0; i < poligonos.size(); i++){
+		listbox->Items->Add(poligonos[i].toString());
+	}
+}
+
+void DisplayFile::mostraPontos(int qualPoligono, TListBox *listbox){
+	poligonos[qualPoligono].mostraPontos(listbox);
+														
+}
+
+void DisplayFile::clipping(Janela janelaClipping, int *contaId){
+	int numeroPoligonos = poligonos.size();
+
+	Poligono pol;
+
+	for(int i = 0; i < numeroPoligonos; i++){
+	   char tipo = poligonos[i].tipo;
+
+		if(tipo == 'C'){
+			pol = poligonos[i].clippingPontos(clipping);
+		}
+		else{
+			pol = poligonos[i].cohen(clipping);
+		}
+
+        if(pol.pontos.size() > 0){
+			pol.id = (&contaId)++;
+
+			pol.tipo = tipo;
+
+			display.poligonos.push_back(pol);
+
+			display.desenha(Image1->Canvas, mundo, vp, rgTipoReta->ItemIndex);
+			display.mostra(lbPoligonos);
+		}
+
+		pol.pontos.clear();
+	}
+
+
+
+
+
+
+
+
+}

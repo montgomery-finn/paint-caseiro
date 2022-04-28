@@ -1,0 +1,14 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "uJanela.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+Janela::Janela(double nxmax, double nxmin,double nymax,  double nymin, ){
+	xmax = nxmax;
+	xmin = nxmin;
+	ymin = nymin;
+	ymax = nymax;
+}
